@@ -1,2 +1,2 @@
 # TIL ( 개발로 성장하는 **EVERY DAY** )
--[12월1주차 Ui_UX](https://github.com/Universus-DH/TIL/blob/main/Ui%2CUX.md)
+-[HTML](https://github.com/Universus-DH/TIL/tree/main/HTML)
