@@ -51,4 +51,3 @@ ex) ANSI 숫자-영어 : 1Byte , 한글 : 2Byte
      UTF 숫자-영어 : 1Byte , 한글 : 3Byte 
 ```
  
- 
