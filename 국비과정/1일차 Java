@@ -50,5 +50,5 @@ path 선택 -> 편집 -> 새로만들기 : %JAVA_HOME%\bin
 ex) ANSI 숫자-영어 : 1Byte , 한글 : 2Byte
      UTF 숫자-영어 : 1Byte , 한글 : 3Byte 
 ```
-
+ 
  
